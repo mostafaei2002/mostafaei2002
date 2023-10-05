@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
 <h3 align="center">Passionate about learning new stuff & overcoming challenges specially related to programming</h3>
 
-<a href="https://mostafaei2002.github.io">Check out my portfolio</a>
+<h3><a href="https://mostafaei2002.github.io">Check out my portfolio</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
