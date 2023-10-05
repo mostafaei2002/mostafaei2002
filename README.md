@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sina</h1>
 <h3 align="center">Passionate about learning new stuff & overcoming challenges specially related to programming</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaei2002&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaei2002" /> </p>
-
-<a href="mostafaei2002.github.io">Check out my portfolio</a>
+<a href="https://mostafaei2002.github.io">Check out my portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
