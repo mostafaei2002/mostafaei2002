@@ -36,7 +36,7 @@
 
 <!-- Technologies I want to learn -->
 <h3 align="left">I Want to Learn:</h3>
-<small align="left">These are the languages and technologies with no or partial knowledge that I am not confident with or want to learn in the future.</small>
+<small align="left">These are the languages and technologies with no knowledge or partial knowledge with, I am not confident with them or want to learn in the future.</small>
 
 <!-- Start -->
 
