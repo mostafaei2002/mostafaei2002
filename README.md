@@ -16,11 +16,11 @@
 </p>
 
 <!-- Languages & Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <!-- Main Languages and Tools -->
-<h4 align="left">I've Worked with</h4>
-<small align="left">I've worked with most of the below technologies. I have a fair understanding of them with a good amount of projects.</small>
+<h3 align="left">I Know:</h3>
+<small align="left" style="font-size: '12px'">I've worked with most of the below technologies. I have a fair understanding of them with a good amount of projects.</small>
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -37,8 +37,8 @@
 </p>
 
 <!-- Technologies I want to learn -->
-<h5 align="left">I want to learn more</h5>
-<small align="left">These are the languages and technologies with no or partial knowledge that I am not confident with or want to learn in the future.</small>
+<h3 align="left">I Want to Learn:</h3>
+<small align="left" style="font-size: '12px'">These are the languages and technologies with no or partial knowledge that I am not confident with or want to learn in the future.</small>
 
 <p align="left">
 <!-- FrontEnd -->
