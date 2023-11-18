@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Main Languages and Tools -->
-<h4 align="left">I've Worked with<h4>
+<h4 align="left">I've Worked with</h4>
 <small align="left">I've worked with most of the below technologies. I have a fair understanding of them with a good amount of projects.</small>
 
 <p align="left">
