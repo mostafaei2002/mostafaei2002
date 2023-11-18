@@ -20,7 +20,7 @@
 
 <!-- Main Languages and Tools -->
 <h3 align="left">I Know:</h3>
-<small align="left" style="font-size: '12px'">I've worked with most of the below technologies. I have a fair understanding of them with a good amount of projects.</small>
+<small align="left">I've worked with most of the below technologies. I have a fair understanding of them with a good amount of projects.</small>
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -33,16 +33,16 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-
 </p>
 
 <!-- Technologies I want to learn -->
 <h3 align="left">I Want to Learn:</h3>
-<small align="left" style="font-size: '12px'">These are the languages and technologies with no or partial knowledge that I am not confident with or want to learn in the future.</small>
+<small align="left">These are the languages and technologies with no or partial knowledge that I am not confident with or want to learn in the future.</small>
+
+<!-- Start -->
 
 <p align="left">
-<!-- FrontEnd -->
-
+    <!-- FrontEnd -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
@@ -90,6 +90,7 @@
 </p>
 
 <!-- End of Languages & Tools -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaei2002&show_icons=true&locale=en&layout=compact" alt="mostafaei2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaei2002&show_icons=true&locale=en" alt="mostafaei2002" /></p>
