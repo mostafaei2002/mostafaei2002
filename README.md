@@ -33,7 +33,6 @@ Favorite Languages:
     <tr>
       <td>Frontend</td>
       <td>Backend</td>
-      <td>AI & ML</td>
       <td>Misc</td>
     </tr>
   </thead>
@@ -64,8 +63,6 @@ Favorite Languages:
       </td>
       <td>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      </td>
-      <td>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
       </td>
     </tr>
