@@ -3,7 +3,7 @@
 <h3 align="center">I'm passionate about programming.</h3>
 
 <!-- More About Me -->
-- I'm currently learning Full Stack Development, Machine Learning & more.
+- I'm currently learning looking into Blockchain & Open Source Software.
 
 - All of my projects are available at **[mostafaei2002.github.io](https://mostafaei2002.github.io)**
 
@@ -19,8 +19,6 @@
 
 <!-- Languages & Tools -->
 <h2 align="left">Languages and Tools:</h2>
-<p>I am not necessarily familiar with all the below technologies, some are just topics I want to dive into.</p>
-
 <p>
 Favorite Languages: 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
