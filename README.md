@@ -3,17 +3,17 @@
 <h3 align="center">I'm passionate about programming.</h3>
 
 <!-- More About Me -->
-- I'm currently learning looking into Blockchain & Open Source Software.
+- I'm currently looking into Blockchain & Open Source Software.
 
-- All of my projects are available at **[mostafaei2002.github.io](https://mostafaei2002.github.io)**
+- My projects are available at **[mostafaei2002.github.io](https://mostafaei2002.github.io)**
 
 - Reach me at **sinamostafaei2002@gmail.com**
 
 <!-- Socials -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/mostafaei2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mostafaei2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mostafaei2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostafaei2002" height="30" width="40" /></a>
+<a href="mailto:sinamostafaei2002@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/sinamostafaei2002" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 
@@ -80,4 +80,4 @@ Favorite Languages:
 <hr/>
 <h3>Me on Roadmap.sh</h3>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e7472ab128dce3cb6f1e28?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Cai-data-scientist)](https://roadmap.sh/u/mostafaei2002)
+[![roadmap.sh](https://roadmap.sh/card/tall/64e7472ab128dce3cb6f1e28?variant=dark&roadmaps=frontend%2Cbackend%2Cblockchain%2Cdevops)](https://roadmap.sh/mostafaei2002)
